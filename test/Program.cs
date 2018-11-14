@@ -10,8 +10,7 @@ namespace test
 <<<<<<< HEAD
 <<<<<<< HEAD
             int a = 6;
-=======
-=======
+string someupdate;
 >>>>>>> 778c96706ef65d5445905df2548b5105c3d73c30
             int a = 7;
             int b = 3;
