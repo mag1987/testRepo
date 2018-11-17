@@ -7,12 +7,10 @@ namespace test
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, world!");
-            int a = 6;
 
-            int b = 56;
-            string newBranch;
+            int a =8;
+            string thisIsAFirstBranch;
 
-            Console.WriteLine(a+b);
             Console.WriteLine("Hello, world again!");
         }
     }
